@@ -1,4 +1,4 @@
-package com.smartroom.telemetry.config;
+package com.smartroom.telemetry_service.config;
 
 import org.eclipse.paho.client.mqttv3.MqttConnectOptions;
 import org.springframework.beans.factory.annotation.Value;
